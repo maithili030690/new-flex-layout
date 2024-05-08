@@ -1,0 +1,19 @@
+:root{
+	--color-primary:#f6d200;
+	--color-gray:#ededed;
+	--color-dark:#000;
+	--color-white:#fff;
+
+}
+a:link, a:visited{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.text-transform-uppercase{
+    text-transform:uppercase;
+}
+.d-flex{
+    display:flex;
+}
